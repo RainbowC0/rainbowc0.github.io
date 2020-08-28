@@ -4,27 +4,26 @@
   <title>RainbowC0 的个人空间</title>
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width,initial-scale=1.0,minium-scale=1.0,maximum-scale=1.0,user-scalable=no'>
+  <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
  </head>
- <body>
+ <body style='margin:0px 0px 0px 0px;text-align:middle'>
   <h4>RainbowC0 的个人空间</h4>
   <hr/>
   <p>人类啊</p>
-  <img src='./eager.svg'/>
-<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
-
-<!-- Render textfield component -->
-<label class="mdc-text-field mdc-text-field--filled">
+<label class="mdc-text-field mdc-text-field--filled" data-mdc-auto-init='MDCTextField'>
   <span class="mdc-text-field__ripple"></span>
-  <span class="mdc-floating-label" id="my-label">Label</span>
+  <span class="mdc-floating-label" id="my-label">Your Name</span>
   <input type="text" class="mdc-text-field__input" aria-labelledby="my-label">
   <span class="mdc-line-ripple"></span>
 </label>
-
-<!-- Required Material Web JavaScript library -->
-<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
-<!-- Instantiate single textfield component rendered in the document -->
 <script>
-  mdc.textField.MDCTextField.attachTo(document.querySelector('.mdc-text-field'));
+  mdc.autoInit()
 </script>
+<button class="mdc-button" onclick='alert(my-label.value+" is a pig.");'>
+   <div class="mdc-button__ripple"></div>
+   <span class="mdc-button__label">RESULT</span>
+</button>
+<img src='./eager.svg'/>
  </body>
 </html>
