@@ -13,14 +13,14 @@
   <p>人类啊</p>
 <label class="mdc-text-field mdc-text-field--filled" data-mdc-auto-init='MDCTextField'>
   <span class="mdc-text-field__ripple"></span>
-  <span class="mdc-floating-label" id="my-label">Your Name</span>
-  <input type="text" class="mdc-text-field__input" aria-labelledby="my-label">
+  <span class="mdc-floating-label" id='my-label'>Your Name</span>
+  <input id='nam' type="text" class="mdc-text-field__input" aria-labelledby="my-label">
   <span class="mdc-line-ripple"></span>
 </label>
 <script>
   mdc.autoInit()
 </script>
-<button class="mdc-button" onclick='alert(my-label.value+" is a pig.");'>
+<button class="mdc-button" onclick='alert(nam.value+" is a pig.");'>
    <div class="mdc-button__ripple"></div>
    <span class="mdc-button__label">RESULT</span>
 </button>
