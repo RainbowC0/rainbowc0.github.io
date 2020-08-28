@@ -1,0 +1,4 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox="0 0 480 480" style="background-color:darkred">
+	<circle cx="240" cy="240" r="220" fill="white"/>
+	<path fill="black" d='M240 40l40 40l-80 80l40 40l80-80l120 120l-40 40l-80-80l-40 40l80 80l-120 120l-40-40l80-80l-40-40l-80 80l-120-120l40-40l80 80l40-40l-80-80z'/>
+</svg>
