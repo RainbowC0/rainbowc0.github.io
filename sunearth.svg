@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg style="background-color:black"
+	xmlns="http://www.w3.org/2000/svg" preserveAdjustRatio="xMidYMid slice" version="1.1" height="91000" width="91000" viewBox="0 0 91000 91000"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<style>
+	.orbit {
+		fill:none;
+		stroke:white;
+		stroke-width:0.1;
+	}
+	</style>
+	<circle cx="45500" id="sun" cy="45500" r="69.55" fill="gold"/>
+	<circle cx="45500" cy="45500" r="579.09" class="orbit"/>
+	<circle cx="45500" cy="45500" r="1082.09" class="orbit"/>
+	<circle cx="45500" cy="45500" r="1495.98" class="orbit"/>
+	<circle cx="45500" cy="45500" r="2279.39" class="orbit"/>
+	<circle cx="45500" cy="45500" r="7783.30" class="orbit"/>
+	<circle cx="45500" cy="45500" r="14270" class="orbit"/>
+	<circle cx="45500" cy="45500" r="28960" class="orbit"/>
+	<circle cx="45500" cy="45500" r="45040" class="orbit"/>
+	<circle cx="45500" cy="44920.91" r="0.24" fill="grey"/>
+	<circle cx="45500" cy="44417.91" r="0.61" fill="orange"/>
+	<circle cx="45500" cy="44004.02" r="0.64" fill="#0080B0"/>
+	<circle cx="45500" cy="43220.61" r="0.34" fill="brown"/>
+	<circle cx="45500" cy="37716.7" r="7.15" fill="burlywood"/>
+	<circle cx="45500" cy="31230" r="6.03" fill="peru"/>
+	<circle cx="45500" cy="16540" r="2.76" fill="lightskyblue"/>
+	<circle cx="45500" cy="460" r="2.48" fill="blue"/>
+</svg>
