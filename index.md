@@ -3,8 +3,8 @@
 ### Java
 ### JavaScript
 ### Python
-- [三元运算符](python/01.md)
-- [交换变量值](python/02.md)
+- [三元运算符](./python/01.md)
+- [交换变量值](./python/02.md)
 
 ### Shell
-- [猜数字小游戏](shell/01.md)
+- [猜数字小游戏](./shell/01.md)
