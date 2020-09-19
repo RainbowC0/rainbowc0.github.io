@@ -5,6 +5,7 @@
 ### Python
 - [三元运算](./python/01.md)
 - [交换变量值](./python/02.md)
+- [猜数字小游戏](./python/03.md)
 
 ### Shell
 - [猜数字小游戏](./shell/01.md)
