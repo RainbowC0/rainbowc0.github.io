@@ -1,6 +1,7 @@
 ## RainbowC0 的个人空间
 本网站用发表个人的编程笔记，供大家学习！
 ### Java
+- [割圆术计算π](./java/01.md)
 ### JavaScript
 ### Python
 - [三元运算](./python/01.md)
