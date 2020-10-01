@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox="0 0 480 480">
+	<circle cx="240" cy="240" r="220" fill="none" stroke="black" stroke-width="0.5"/>
+	<path fill="none" stroke="green" stroke-width="0.5" d='M20 240l110 190.53h220l110-190.53l-110-190.53h-220z'/>
+	<path fill="none" stroke="blue" stroke-width="0.5" d="M20 240l29.47 110l80.53 80.53l110 29.47l110-29.47l80.53-80.53l29.47-110l-29.47-110l-80.53-80.53l-110-29.47l-110 29.47l-80.53 80.53z"/>
+	<path fill="none" stroke="red" stroke-width="0.5" d="M20 240l7.5 56.94l21.97 53.06l34.97 45.56l45.56 34.97l53.06 21.97l56.94 7.5l56.94-7.5l53.06-21.97l45.56-34.97l34.97-45.56l21.97-53.06l7.5-56.94l-7.5-56.94l-21.97-53.06l-34.97-45.56l-45.56-34.97l-53.06-21.97l-56.94-7.5l-56.94 7.5l-53.06 21.97l-45.56 34.97l-34.97 45.56l-21.97 53.06z"/>
+	<path fill="none" stroke="indigo" stroke-width="0.5" d="M130 430.53L240 240L350 430.53M240 240v220M240 240l-56.94 212.5"/>
+	<text x="240" y="240">O</text>
+	<text x="185" y="335.27" transform="rotate(-60 185 335.27)">r=1</text>
+	<text x="130" y="430.53">A</text>
+	<text x="350" y="430.53">B</text>
+	<text x="240" y="460">C</text>
+	<text x="173.06" y="462.5">D</text>
+	<text x="240" y="430.53">E</text>
+	<text x="185" y="445.26">F</text>
+</svg>
